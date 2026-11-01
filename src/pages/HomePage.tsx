@@ -127,7 +127,7 @@ export function HomePage() {
             <div className="lg:col-span-5 relative">
               <div className="relative rounded-2xl overflow-hidden border border-slate-700 shadow-2xl bg-slate-800 group">
                 <img
-                  src="/src/assets/images/hero_hvac_technician_1792843427142.jpg"
+                  src="/images/hero_hvac_technician.jpg"
                   alt="Certified Apex Climate technician conducting precision diagnostics on a high-efficiency outdoor heat pump condenser"
                   className="w-full h-80 sm:h-96 lg:h-112 object-cover object-center group-hover:scale-102 transition-transform duration-500"
                   width={640}

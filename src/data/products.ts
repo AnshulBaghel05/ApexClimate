@@ -61,7 +61,7 @@ export const PRODUCTS: ProductItem[] = [
     ],
     idealFor: "Modern 1,800 – 2,400 sq. ft. homes seeking lowest electric bills and silent operation.",
     inStock: true,
-    image: "/src/assets/images/hero_hvac_technician_1792843427142.jpg",
+    image: "/images/hero_hvac_technician.jpg",
   },
   {
     id: "daikin-fit-ac",
@@ -97,7 +97,7 @@ export const PRODUCTS: ProductItem[] = [
     ],
     idealFor: "Homes with narrow side yards, patio yards, townhomes, and coastal environments.",
     inStock: true,
-    image: "/src/assets/images/residential_modern_heatpump_1792843428074.jpg",
+    image: "/images/residential_modern_heatpump.jpg",
   },
   {
     id: "trane-xr15-ac",
@@ -131,7 +131,7 @@ export const PRODUCTS: ProductItem[] = [
     ],
     idealFor: "Homeowners wanting rock-solid, simple, dependable cooling without electronic complexity.",
     inStock: true,
-    image: "/src/assets/images/hero_hvac_technician_1792843427142.jpg",
+    image: "/images/hero_hvac_technician.jpg",
   },
 
   // ================= HEAT PUMPS =================
@@ -169,7 +169,7 @@ export const PRODUCTS: ProductItem[] = [
     ],
     idealFor: "Electrifying older homes, room additions, sunrooms, and whole-home zoning without ductwork.",
     inStock: true,
-    image: "/src/assets/images/residential_modern_heatpump_1792843428074.jpg",
+    image: "/images/residential_modern_heatpump.jpg",
   },
   {
     id: "carrier-infinity-heatpump",
@@ -203,7 +203,7 @@ export const PRODUCTS: ProductItem[] = [
     ],
     idealFor: "Larger homes seeking full decarbonization and continuous whisper-quiet comfort.",
     inStock: true,
-    image: "/src/assets/images/hero_hvac_technician_1792843427142.jpg",
+    image: "/images/hero_hvac_technician.jpg",
   },
 
   // ================= FURNACES =================
@@ -240,7 +240,7 @@ export const PRODUCTS: ProductItem[] = [
     ],
     idealFor: "Homeowners with natural gas utility seeking absolute maximum efficiency and silence.",
     inStock: true,
-    image: "/src/assets/images/technician_indoor_maintenance_1792843428188.jpg",
+    image: "/images/technician_indoor_maintenance.jpg",
   },
   {
     id: "rheem-classic-plus-furnace",
@@ -274,7 +274,7 @@ export const PRODUCTS: ProductItem[] = [
     ],
     idealFor: "Cost-conscious homeowners upgrading from an old 80% AFUE furnace.",
     inStock: true,
-    image: "/src/assets/images/technician_indoor_maintenance_1792843428188.jpg",
+    image: "/images/technician_indoor_maintenance.jpg",
   },
 
   // ================= THERMOSTATS & SMART CONTROLS =================
@@ -309,7 +309,7 @@ export const PRODUCTS: ProductItem[] = [
     ],
     idealFor: "All residential central systems and multi-stage heat pump configurations.",
     inStock: true,
-    image: "/src/assets/images/residential_modern_heatpump_1792843428074.jpg",
+    image: "/images/residential_modern_heatpump.jpg",
   },
 
   // ================= AIR PURIFIERS & FILTERS =================
@@ -344,7 +344,7 @@ export const PRODUCTS: ProductItem[] = [
     ],
     idealFor: "Households with asthma, allergies, immune sensitivities, pets, or high dust loads.",
     inStock: true,
-    image: "/src/assets/images/technician_indoor_maintenance_1792843428188.jpg",
+    image: "/images/technician_indoor_maintenance.jpg",
   },
 
   // ================= COMMERCIAL UNITS =================
@@ -381,7 +381,7 @@ export const PRODUCTS: ProductItem[] = [
     ],
     idealFor: "Retail strip centers, medium commercial office buildings, clinics, and restaurants.",
     inStock: true,
-    image: "/src/assets/images/commercial_rooftop_hvac_1792843428349.jpg",
+    image: "/images/commercial_rooftop_hvac.jpg",
   },
   {
     id: "daikin-vrv-iv-x",
@@ -415,6 +415,6 @@ export const PRODUCTS: ProductItem[] = [
     ],
     idealFor: "Multi-tenant office headquarters, luxury hotels, schools, and medical pavilions.",
     inStock: true,
-    image: "/src/assets/images/commercial_rooftop_hvac_1792843428349.jpg",
+    image: "/images/commercial_rooftop_hvac.jpg",
   },
 ];

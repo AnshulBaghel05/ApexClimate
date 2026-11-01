@@ -44,7 +44,7 @@ export function AboutPage() {
           <div className="lg:col-span-5">
             <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-lg">
               <img
-                src="/src/assets/images/technician_indoor_maintenance_1792843428188.jpg"
+                src="/images/technician_indoor_maintenance.jpg"
                 alt="Lead HVAC diagnostic specialist inspecting heating equipment"
                 className="w-full h-80 object-cover"
                 width={500}

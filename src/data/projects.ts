@@ -61,7 +61,7 @@ export const PROJECTS: ProjectItem[] = [
       clientName: "Jonathan & Claire M.",
       role: "Homeowners",
     },
-    image: "/src/assets/images/residential_modern_heatpump_1792843428074.jpg",
+    image: "/images/residential_modern_heatpump.jpg",
   },
   {
     id: "tech-center-commercial-rtu-replacement",
@@ -96,7 +96,7 @@ export const PROJECTS: ProjectItem[] = [
       clientName: "Arthur Sterling",
       role: "VP of Facility Operations, Riverdale Tech Center",
     },
-    image: "/src/assets/images/commercial_rooftop_hvac_1792843428349.jpg",
+    image: "/images/commercial_rooftop_hvac.jpg",
   },
   {
     id: "medical-clinic-ductless-multi-zone",
@@ -129,6 +129,6 @@ export const PROJECTS: ProjectItem[] = [
       clientName: "Dr. Rachel Thorne, MD",
       role: "Clinic Director",
     },
-    image: "/src/assets/images/technician_indoor_maintenance_1792843428188.jpg",
+    image: "/images/technician_indoor_maintenance.jpg",
   },
 ];
