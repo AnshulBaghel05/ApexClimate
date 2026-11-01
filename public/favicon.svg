@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Circular container background -->
+  <rect width="64" height="64" rx="16" fill="#0F172A" />
+  
+  <!-- Left Side: Cool Snowflake / Chill Element in Cyan/Blue (#0284C7 / #38BDF8) -->
+  <g stroke="#38BDF8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Center branch to left -->
+    <line x1="32" y1="32" x2="14" y2="32" />
+    <line x1="22" y1="32" x2="17" y2="25" />
+    <line x1="22" y1="32" x2="17" y2="39" />
+    
+    <!-- Top-left diagonal branch -->
+    <line x1="32" y1="32" x2="19" y2="19" />
+    <line x1="25" y1="25" x2="20" y2="23" />
+    <line x1="25" y1="25" x2="23" y2="18" />
+
+    <!-- Bottom-left diagonal branch -->
+    <line x1="32" y1="32" x2="19" y2="45" />
+    <line x1="25" y1="39" x2="20" y2="41" />
+    <line x1="25" y1="39" x2="23" y2="46" />
+    
+    <!-- Vertical top branch partial -->
+    <line x1="32" y1="32" x2="32" y2="14" />
+    <line x1="32" y1="22" x2="26" y2="17" />
+  </g>
+
+  <!-- Right Side: Warm Dynamic Flame Element in Orange/Amber (#EA580C / #F97316) -->
+  <path d="M32 14C35 21 42 24 45 28C48.5 32.5 49 38 46.5 43C44 48 38.5 50 32 50C33.5 45 35 41 33.5 37C32 33 29 30 32 25C33 22 32.5 17 32 14Z" fill="#F97316" />
+  <path d="M33 28C36 32 40 34 40 39C40 43.5 37 46 33 47C35 44 35.5 41 34.5 38C33.5 35 31.5 33 33 28Z" fill="#FDE047" />
+
+  <!-- Center core badge -->
+  <circle cx="32" cy="32" r="3.5" fill="#FFFFFF" />
+</svg>

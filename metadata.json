@@ -1,0 +1,6 @@
+{
+  "name": "Apex Climate Solutions | Residential & Commercial HVAC",
+  "description": "Certified HVAC installation, 24/7 repair, maintenance plans, and premium equipment sales for homes and businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
